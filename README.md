@@ -3,7 +3,8 @@
 This project presents an interactive Tableau dashboard analyzing the adoption and distribution of electric vehicles (EVs) across the U.S., based on registration data.
 
 File description
-Electric_Vehicle_Population_Data.csv: Cleaned dataset with added MSRP values.
+
+Electric_Vehicle_Population_Data.csv: Cleaned dataset with synthetic BASE MSRP values.
 
 biva.twbx: Tableau workbook containing all visualizations and the final dashboard.
 
